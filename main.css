@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(66, 66, 66);
+    color: white;
+}
+ul{
+    float: left;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+
+.hilight{
+    background-color: rgb(54, 54, 54);
+}
